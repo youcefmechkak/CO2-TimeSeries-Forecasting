@@ -46,9 +46,7 @@ It is located in the `data/` directory.
 - `src/`: Python implementation (`PrediCO2.py`)
 - `notebook/`: Jupyter notebook for experimentation
 - `data/`: Dataset
-- `results/`: Metrics and plots
 - `report/`: Project report (PDF)
-- `video/`: Model explanation video
 
 ## Requirements
 Install dependencies using:
